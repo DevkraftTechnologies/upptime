@@ -8,9 +8,9 @@ sites:
   - name: Authorizer
     url: https://auth-prod.devkraft.in/dashboard/
   - name: Content-Transcreation-Backend
-    url: https://texttovid.devkraft.in
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
+    url: https://texttovid.devkraft.in/api/health
+  - name: Semantic-Search-Backend
+    url: https://semantic.devkraft.in/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
