@@ -4,46 +4,50 @@
     "url": "https://genai.devkraft.in/",
     "icon": "https://icons.duckduckgo.com/ip3/genai.devkraft.in.ico",
     "slug": "genai-frontend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 770,
     "timeDay": 660,
     "timeWeek": 749,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-25": 2
+    }
   },
   {
     "name": "Authorizer",
     "url": "https://auth-prod.devkraft.in/dashboard/",
     "icon": "https://icons.duckduckgo.com/ip3/auth-prod.devkraft.in.ico",
     "slug": "authorizer",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 914,
     "timeDay": 862,
     "timeWeek": 903,
     "timeMonth": 914,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-25": 1
+    }
   },
   {
     "name": "Content-Transcreation-Backend",
     "url": "https://texttovid.devkraft.in/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/texttovid.devkraft.in.ico",
     "slug": "content-transcreation-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
     "time": 745,
@@ -52,6 +56,7 @@
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2023-10-25": 1,
       "2023-10-09": 36
     }
   },
@@ -60,9 +65,9 @@
     "url": "https://semantic.devkraft.in/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/semantic.devkraft.in.ico",
     "slug": "semantic-search-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -72,6 +77,7 @@
     "timeMonth": 1485,
     "timeYear": 1485,
     "dailyMinutesDown": {
+      "2023-10-25": 0,
       "2023-10-16": 22
     }
   }
