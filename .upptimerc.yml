@@ -14,9 +14,9 @@ sites:
   - name: Semantic Search Prod
     url: https://semantic-genai.indegene.com/api/health
   - name: Content Transcreation Prod
-    url: https://content-genai.indegene.com/api/health/
+    url: https://content-genai.indegene.com/api/health
   - name: Content AI Prod
-    url: https://content-ai-genai.indegene.com/api/health
+    url: https://content-ai-genai.indegene.com/api/health/
   - name: Content Transcretion Dev
     url: https://texttovid-dev.devkraft.in/api/health/
   - name: Semantic Search Dev
