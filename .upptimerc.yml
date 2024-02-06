@@ -11,6 +11,12 @@ sites:
     url: https://texttovid.devkraft.in/api/health
   - name: Semantic-Search-Backend
     url: https://semantic.devkraft.in/api/health
+  - name: Bookstack
+    url: https://bookstack.devkraft.in/
+  - name: Openproject
+    url: https://openproject.devkraft.in/
+  - name: Baserow
+    url: https://baserow.devkraft.in/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
