@@ -11,6 +11,18 @@ sites:
     url: https://openproject.devkraft.in/
   - name: Baserow
     url: https://baserow.devkraft.in/
+  - name: Semantic Search Prod
+    url: https://semantic-genai.indegene.com/api/health
+  - name: Content Transcreation Prod
+    url: https://content-genai.indegene.com/api/health/
+  - name: Content AI Prod
+    url: https://content-ai-genai.indegene.com/api/health
+  - name: Content Transcretion Dev
+    url: https://texttovid-dev.devkraft.in/api/health/
+  - name: Semantic Search Dev
+    url: https://semantic-dev.devkraft.in/api/health
+  - name: Content AI Dev
+    url: https://content-ai-dev.devkraft.in/api/health/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
