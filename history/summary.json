@@ -42,19 +42,19 @@
     "url": "https://openproject.devkraft.in/",
     "icon": "https://icons.duckduckgo.com/ip3/openproject.devkraft.in.ico",
     "slug": "openproject",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 826,
-    "timeWeek": 957,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 998,
+    "timeDay": 962,
+    "timeWeek": 988,
+    "timeMonth": 998,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2024-02-15": 0
+      "2024-02-15": 24
     }
   },
   {
