@@ -1,7 +1,7 @@
 url: https://content-genai.indegene.com/api/health
-status: down
-code: 502
-responseTime: 47
-lastUpdated: 2024-02-26T13:09:22.466Z
+status: up
+code: 200
+responseTime: 34
+lastUpdated: 2024-02-26T13:20:16.591Z
 startTime: 2024-02-06T09:01:30.039Z
 generator: Upptime <https://github.com/upptime/upptime>
