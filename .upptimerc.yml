@@ -20,7 +20,7 @@ sites:
   - name: Content Transcretion Dev
     url: https://texttovid-dev.devkraft.in/api/health/
   - name: Semantic Search Dev
-    url: https://semantic-dev.devkraft.in/api/health
+    url: https://semantic-dev.devkraft.in/api/v1/health
   - name: Content AI Dev
     url: https://content-ai-dev.devkraft.in/api/health/
 
