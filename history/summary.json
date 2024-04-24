@@ -70,18 +70,16 @@
     "slug": "semantic-search-prod",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
     "timeDay": 194,
     "timeWeek": 157,
     "timeMonth": 162,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2024-04-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Content Transcreation Prod",
