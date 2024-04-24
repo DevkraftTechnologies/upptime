@@ -12,7 +12,7 @@ sites:
   - name: Baserow
     url: https://baserow.devkraft.in/
   - name: Semantic Search Prod
-    url: https://semantic-genai.indegene.com/api/health
+    url: https://semantic-genai.indegene.com/api/v1/health
   - name: Content Transcreation Prod
     url: https://content-genai.indegene.com/api/health
   - name: Content AI Prod
