@@ -26,10 +26,10 @@
     "url": "https://bookstack.devkraft.in/",
     "icon": "https://icons.duckduckgo.com/ip3/bookstack.devkraft.in.ico",
     "slug": "bookstack",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 1289,
@@ -38,6 +38,7 @@
     "timeMonth": 1290,
     "timeYear": 1289,
     "dailyMinutesDown": {
+      "2024-04-28": 1,
       "2024-02-27": 251,
       "2024-02-26": 108
     }
@@ -47,9 +48,9 @@
     "url": "https://baserow.devkraft.in/",
     "icon": "https://icons.duckduckgo.com/ip3/baserow.devkraft.in.ico",
     "slug": "baserow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -59,6 +60,7 @@
     "timeMonth": 2047,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2024-04-28": 0,
       "2024-02-27": 251,
       "2024-02-26": 107
     }
