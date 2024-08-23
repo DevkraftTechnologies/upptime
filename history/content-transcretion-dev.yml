@@ -1,7 +1,7 @@
 url: https://texttovid-dev.devkraft.in/api/health/
-status: up
-code: 200
-responseTime: 1623
-lastUpdated: 2024-08-22T23:02:14.284Z
+status: down
+code: 502
+responseTime: 734
+lastUpdated: 2024-08-23T15:23:02.372Z
 startTime: 2024-02-06T09:01:37.452Z
 generator: Upptime <https://github.com/upptime/upptime>
