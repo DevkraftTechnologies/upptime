@@ -9,8 +9,6 @@ sites:
   #   url: https://bookstack.devkraft.in/
   - name: Openproject
     url: https://openproject.devkraft.in/
-  # - name: Baserow
-  #   url: https://baserow.devkraft.in/
   # - name: Semantic Search Prod
   #   url: https://semantic-genai.indegene.com/api/v1/health
   # - name: Content Transcreation Prod
