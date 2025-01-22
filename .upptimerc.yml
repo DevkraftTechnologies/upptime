@@ -10,7 +10,7 @@ sites:
   - name: Semantic Search Prod
     url: https://semantic-genai.indegene.com/api/v1/health
   - name: Content Transcreation Prod
-    url: https://content-genai.indegene.com/api/health
+    url: https://content-transcreation-genai.indegene.com/api/health
   - name: Content AI Prod
     url: https://content-ai-genai.indegene.com/api/health/
   - name: Content Transcretion Dev
