@@ -1,7 +1,7 @@
-url: https://openproject.devkraft.in/
+url: https://openproject.devkraft.in/health_checks/default
 status: up
 code: 200
-responseTime: 1233
-lastUpdated: 2025-01-22T05:27:01.516Z
+responseTime: 728
+lastUpdated: 2025-01-22T05:41:13.112Z
 startTime: 2025-01-21T06:04:41.905Z
 generator: Upptime <https://github.com/upptime/upptime>
