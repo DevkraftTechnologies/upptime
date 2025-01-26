@@ -13,6 +13,8 @@ sites:
     url: https://content-transcreation-genai.indegene.com/api/health
   - name: Content AI Prod
     url: https://content-ai-genai.indegene.com/api/health/
+  - name: Semantic Search QA
+    url: https://gist-qa.indegene.com/api/v1/health
   - name: Content Transcretion Dev
     url: https://texttovid-dev.devkraft.in/api/health/
   - name: Semantic Search Dev
