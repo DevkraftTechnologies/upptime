@@ -1,7 +1,7 @@
 url: https://gist-qa.indegene.com/api/v1/health
 status: down
-code: 504
-responseTime: 10660
-lastUpdated: 2025-02-02T23:07:27.989Z
+code: 502
+responseTime: 649
+lastUpdated: 2025-02-03T23:06:47.739Z
 startTime: 2025-01-26T11:07:53.647Z
 generator: Upptime <https://github.com/upptime/upptime>
