@@ -25,6 +25,8 @@ sites:
     url: https://www.dekoder.com/
   - name: Dekoder CMS
     url: https://cms-p4r5o6d.dekoder.com/
+  - name: Dekoder API
+    url: https://p4r5o6d.dekoder.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
