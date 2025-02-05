@@ -21,6 +21,10 @@ sites:
     url: https://semantic-dev.devkraft.in/api/v1/health
   - name: Content AI Dev
     url: https://content-ai-dev.devkraft.in/api/health/
+  - name: Dekoder Prod
+    url: https://www.dekoder.com/
+  - name: Dekoder CMS
+    url: https://cms-p4r5o6d.dekoder.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
