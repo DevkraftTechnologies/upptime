@@ -1,7 +1,7 @@
 url: https://openproject.devkraft.in/health_checks/default
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-20T23:06:53.762Z
+status: up
+code: 200
+responseTime: 721
+lastUpdated: 2025-04-21T01:47:14.805Z
 startTime: 2025-01-21T06:04:41.905Z
 generator: Upptime <https://github.com/upptime/upptime>
