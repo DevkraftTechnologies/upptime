@@ -1,7 +1,7 @@
 url: https://semantic-genai.indegene.com/api/v1/health
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2025-06-03T07:59:33.076Z
+status: down
+code: 504
+responseTime: 10285
+lastUpdated: 2025-06-03T08:12:31.637Z
 startTime: 2025-01-22T05:41:13.292Z
 generator: Upptime <https://github.com/upptime/upptime>
