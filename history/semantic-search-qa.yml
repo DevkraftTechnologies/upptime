@@ -1,7 +1,7 @@
 url: https://gist-qa.indegene.com/api/v1/health
-status: down
-code: 502
-responseTime: 723
-lastUpdated: 2025-06-13T08:39:48.817Z
+status: up
+code: 200
+responseTime: 713
+lastUpdated: 2025-06-13T08:51:00.507Z
 startTime: 2025-01-26T11:07:53.647Z
 generator: Upptime <https://github.com/upptime/upptime>
