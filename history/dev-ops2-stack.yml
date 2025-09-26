@@ -1,7 +1,7 @@
 url: https://devops2.whiteswansec.io/
-status: up
-code: 200
-responseTime: 993
-lastUpdated: 2025-09-26T15:03:59.422Z
+status: down
+code: 503
+responseTime: 905
+lastUpdated: 2025-09-26T17:02:34.145Z
 startTime: 2025-09-22T07:10:10.366Z
 generator: Upptime <https://github.com/upptime/upptime>
