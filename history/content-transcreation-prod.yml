@@ -1,7 +1,7 @@
 url: https://content-transcreation-genai.indegene.com/api/health
-status: down
-code: 504
-responseTime: 10142
-lastUpdated: 2025-10-22T23:07:39.928Z
+status: up
+code: 200
+responseTime: 250
+lastUpdated: 2025-10-23T10:23:09.059Z
 startTime: 2025-01-22T05:41:13.995Z
 generator: Upptime <https://github.com/upptime/upptime>
