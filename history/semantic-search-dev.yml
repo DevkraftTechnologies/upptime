@@ -1,7 +1,7 @@
 url: https://semantic-dev.devkraft.in/api/v1/health
-status: down
-code: 502
-responseTime: 808
-lastUpdated: 2025-10-31T04:22:33.323Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2025-10-31T04:36:04.601Z
 startTime: 2025-01-22T05:41:19.529Z
 generator: Upptime <https://github.com/upptime/upptime>
