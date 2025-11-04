@@ -31,6 +31,10 @@ sites:
     url: https://bi-monitor.indegene.com/api/health
   - name: DevOps2-Stack
     url: https://devops2.whiteswansec.io/
+  - name: Dekoder-GPU-Translation-VM
+    url: http://13.203.98.187/
+  - name: Dekoder-NonGPU-Translation-VM
+    url: http://13.204.205.142/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
