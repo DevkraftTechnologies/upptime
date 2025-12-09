@@ -1,7 +1,7 @@
 url: https://content-ai-dev.devkraft.in/api/health/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-09T16:13:11.954Z
+status: up
+code: 201
+responseTime: 6187
+lastUpdated: 2025-12-09T16:26:26.285Z
 startTime: 2025-01-22T05:41:20.645Z
 generator: Upptime <https://github.com/upptime/upptime>
