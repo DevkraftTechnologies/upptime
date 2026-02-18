@@ -33,6 +33,17 @@ sites:
     url: http://13.203.98.187/
   - name: Dekoder-NonGPU-Translation-VM
     url: http://13.204.205.142/
+  - name: dekoder-translation-gpu-clone-vm
+    url: http://13.204.242.241/
+  - name: translation-amar-new-vm-1
+    url: http://13.234.81.201/
+  - name: translation-amar-new-vm-2
+    url: http://13.205.31.184/
+  - name: winodow-server-vm
+    url: http://35.154.64.113/
+  - name: winodow-server-vm2
+    url: http://13.234.197.189/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
