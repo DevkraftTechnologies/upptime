@@ -48,14 +48,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.55%",
+    "uptimeYear": "28.54%",
     "time": 5170,
     "timeDay": 10096,
     "timeWeek": 10096,
     "timeMonth": 10228,
     "timeYear": 6998,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -375,7 +375,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.09%",
+    "uptimeYear": "66.10%",
     "time": 927,
     "timeDay": 678,
     "timeWeek": 678,
@@ -527,14 +527,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.35%",
+    "uptimeYear": "47.34%",
     "time": 1333,
     "timeDay": 729,
     "timeWeek": 729,
     "timeMonth": 747,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -747,19 +747,19 @@
     "url": "https://semantic-dev.devkraft.in/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/semantic-dev.devkraft.in.ico",
     "slug": "semantic-search-dev",
-    "status": "down",
-    "uptime": "92.03%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "92.02%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "94.49%",
     "time": 747,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 771,
+    "timeDay": 758,
+    "timeWeek": 758,
+    "timeMonth": 770,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2026-02-20": 4,
+      "2026-02-20": 23,
       "2026-01-15": 348,
       "2026-01-14": 644,
       "2025-12-16": 19,
@@ -955,18 +955,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cms-p4r5o6d.dekoder.com.ico",
     "slug": "dekoder-cms",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "16.46%",
-    "uptimeWeek": "88.07%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.77%",
+    "uptimeDay": "14.87%",
+    "uptimeWeek": "87.84%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "99.76%",
     "time": 1040,
     "timeDay": 242,
     "timeWeek": 242,
     "timeMonth": 480,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 785,
       "2025-09-05": 27
     }
@@ -988,7 +988,7 @@
     "timeMonth": 556,
     "timeYear": 1365,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -1181,18 +1181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devops2.whiteswansec.io.ico",
     "slug": "dev-ops2-stack",
     "status": "down",
-    "uptime": "70.78%",
+    "uptime": "70.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.78%",
+    "uptimeYear": "70.77%",
     "time": 975,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -1293,7 +1293,7 @@
     "timeMonth": 0,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -1418,7 +1418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 783
     }
   },
@@ -1439,7 +1439,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 783
     }
   },
@@ -1460,7 +1460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 782
     }
   },
@@ -1481,7 +1481,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 782
     }
   },
@@ -1502,7 +1502,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 418,
+      "2026-02-20": 441,
       "2026-02-19": 781
     }
   }
