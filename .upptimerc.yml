@@ -43,6 +43,10 @@ sites:
     url: http://35.154.64.113/
   - name: winodow-server-vm2
     url: http://13.234.197.189/
+  - name: GoodMeetings.AI Main Website
+    url: https://goodmeetings.ai/
+  - name: app.goodMeetings.ai Website
+    url: https://app.goodmeetings.ai/
     
 
 status-website:
