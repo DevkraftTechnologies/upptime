@@ -41,7 +41,7 @@
     "slug": "dekoder-cms",
     "status": "down",
     "uptime": "94.75%",
-    "uptimeDay": "0.22%",
+    "uptimeDay": "0.24%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "30.99%",
     "uptimeYear": "94.24%",
@@ -288,18 +288,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/u1a5t9.dekoder.com.ico",
     "slug": "dekoder-uat",
     "status": "up",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-12": 3
+      "2026-03-12": 4
     }
   },
   {
@@ -309,7 +309,7 @@
     "slug": "dekoder-cms",
     "status": "down",
     "uptime": "94.75%",
-    "uptimeDay": "0.22%",
+    "uptimeDay": "0.24%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "30.99%",
     "uptimeYear": "94.24%",
