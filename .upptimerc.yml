@@ -25,6 +25,10 @@ sites:
     url: https://cms-p4r5o6d.dekoder.com/
   - name: Dekoder API
     url: https://p4r5o6d.dekoder.com
+  - name: Dekoder UAT
+    url: https://u1a5t9.dekoder.com/
+  - name: Dekoder CMS
+    url: https://cms-u1a5t9.dekoder.com/
   # - name: BI-Monitoring-Indegene
   #   url: https://bi-monitor.indegene.com/api/health
   - name: Dekoder-GPU-Translation-VM
