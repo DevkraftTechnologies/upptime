@@ -1,7 +1,7 @@
 url: http://13.203.98.187/
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2026-03-17T23:13:51.351Z
+status: down
+code: 500
+responseTime: 527
+lastUpdated: 2026-03-18T15:42:26.750Z
 startTime: 2025-11-04T08:41:44.536Z
 generator: Upptime <https://github.com/upptime/upptime>
